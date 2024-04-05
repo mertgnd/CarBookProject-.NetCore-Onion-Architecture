@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarBookProject.Domain/1.0.0": {
+        "runtime": {
+          "CarBookProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarBookProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
