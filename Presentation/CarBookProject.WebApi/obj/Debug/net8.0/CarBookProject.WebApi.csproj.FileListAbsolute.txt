@@ -143,3 +143,4 @@ C:\Users\mertg\Desktop\CarBookProject\Presentation\CarBookProject.WebApi\bin\Deb
 C:\Users\mertg\Desktop\CarBookProject\Presentation\CarBookProject.WebApi\bin\Debug\net8.0\MediatR.dll
 C:\Users\mertg\Desktop\CarBookProject\Presentation\CarBookProject.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\mertg\Desktop\CarBookProject\Presentation\CarBookProject.WebApi\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mertg\Desktop\CarBookProject\Presentation\CarBookProject.WebApi\obj\Debug\net8.0\CarBookProject.WebApi.sourcelink.json

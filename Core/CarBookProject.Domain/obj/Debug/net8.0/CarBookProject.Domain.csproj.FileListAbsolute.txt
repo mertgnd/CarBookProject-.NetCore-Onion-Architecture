@@ -9,3 +9,4 @@ C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Domain\obj\Debug\net8.
 C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Domain\obj\Debug\net8.0\refint\CarBookProject.Domain.dll
 C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Domain\obj\Debug\net8.0\CarBookProject.Domain.pdb
 C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Domain\obj\Debug\net8.0\ref\CarBookProject.Domain.dll
+C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Domain\obj\Debug\net8.0\CarBookProject.Domain.sourcelink.json

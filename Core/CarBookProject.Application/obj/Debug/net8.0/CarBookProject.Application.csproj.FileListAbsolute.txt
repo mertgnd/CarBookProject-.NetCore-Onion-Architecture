@@ -13,3 +13,4 @@ C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Application\obj\Debug\
 C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Application\obj\Debug\net8.0\refint\CarBookProject.Application.dll
 C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Application\obj\Debug\net8.0\CarBookProject.Application.pdb
 C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Application\obj\Debug\net8.0\ref\CarBookProject.Application.dll
+C:\Users\mertg\Desktop\CarBookProject\Core\CarBookProject.Application\obj\Debug\net8.0\CarBookProject.Application.sourcelink.json

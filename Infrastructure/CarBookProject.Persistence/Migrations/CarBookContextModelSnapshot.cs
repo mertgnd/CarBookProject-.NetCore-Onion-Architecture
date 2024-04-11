@@ -393,7 +393,7 @@ namespace CarBookProject.Persistence.Migrations
                     b.ToTable("SocialMedias");
                 });
 
-            modelBuilder.Entity("CarBookProject.Domain.Entities.Testiomonial", b =>
+            modelBuilder.Entity("CarBookProject.Domain.Entities.Testimonial", b =>
                 {
                     b.Property<int>("TestiomonialID")
                         .ValueGeneratedOnAdd()

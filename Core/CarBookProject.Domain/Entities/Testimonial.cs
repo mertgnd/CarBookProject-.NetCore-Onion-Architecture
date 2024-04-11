@@ -1,7 +1,10 @@
-﻿namespace CarBookProject.Domain.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace CarBookProject.Domain.Entities
 {
-    public class Testiomonial
+    public class Testimonial
     {
+        [Key]
         public int TestiomonialID { get; set; }
         public string Name { get; set; }
         public string Title { get; set; }
